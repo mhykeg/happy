@@ -1,5 +1,7 @@
 h1 {
-  font-family: 'Roboto Mono';
+  font-family: Raleway;
+  font-size: 20px;
+  text-align: center;
   animation: color-change 0.5s infinite;
 }
 
@@ -14,7 +16,7 @@ h1 {
   background-image: url("https://scontent.fsin14-1.fna.fbcdn.net/v/t39.30808-6/288559792_5476943439037054_2790640700961005647_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=3635dc&_nc_ohc=on7WTo55sdEAX8KO0l8&_nc_ht=scontent.fsin14-1.fna&oh=00_AfCawIYtVZb-f2w-90dVCEeSM1MyqUDJqrw7SBzXKk-TLQ&oe=659A8C36");
   background-size: cover;
   background-position: center;
-  height: 1000px;
+  height: 400px;
   width: 100%;
 }
 
