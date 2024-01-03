@@ -22,3 +22,11 @@ li {
   font-family: Helvetica;
   border: 3px hotpink;
 }
+
+p {
+  font-family: monospace;
+}
+
+#gold {
+  font-color: #ffd347;
+}
