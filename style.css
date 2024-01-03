@@ -2,7 +2,7 @@ h1 {
   font-family: Raleway;
   font-size: 20px;
   text-align: center;
-  animation: color-change 0.5s infinite;
+  animation: color-change 1s infinite;
 }
 
 @keyframes color-change {
@@ -27,11 +27,11 @@ li {
 
 p {
   font-family: monospace;
-  text-align: center
+  text-align: center;
 }
 
 #gold {
   font-family: Poppins;
-  color: #ffd347;
-  text-align: center
+  color: #ffa500;
+  text-align: center;
 }
