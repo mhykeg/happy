@@ -21,8 +21,8 @@ h1 {
 }
 
 li {
-  font-family: Helvetica;
-  border: 3px hotpink;
+  font-family: monospace;
+  border: 3px;
 }
 
 p {
