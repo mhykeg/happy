@@ -1,5 +1,12 @@
-*{
-  margin: auto
+@media only screen and (max-width: 768px) {
+  h1 {
+    font-size: 48px;
+  }
+  li,
+    p,
+      h2 {
+        fontsize: 24px;
+      }
 }
 
 h1 {
