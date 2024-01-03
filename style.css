@@ -22,13 +22,16 @@ h1 {
 
 li {
   font-family: monospace;
+  text-align: center
 }
 
 p {
   font-family: monospace;
+  text-align: center
 }
 
 #gold {
   font-family: Poppins;
   color: #ffd347;
+  text-align: center
 }
