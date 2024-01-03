@@ -17,3 +17,8 @@ h1 {
   height: 1000px;
   width: 100%;
 }
+
+li {
+  font-family: Helvetica;
+  border: 3px hotpink;
+}
