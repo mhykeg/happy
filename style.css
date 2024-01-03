@@ -21,6 +21,7 @@ h1 {
 
 li {
   font-family: monospace;
+  color: DarkSalmon
 }
 
 p {
@@ -29,10 +30,10 @@ p {
 
 h2 {
   font-family: Poppins;
-  color: 'Rose Gold';
+  color: Salmon;
 }
 
 #gold {
   font-family: Poppins;
-  color: 'Rose Gold';
+  color: LightSalmon;
 }
