@@ -49,3 +49,8 @@ h2 {
   font-family: Poppins;
   color: LightSalmon;
 }
+
+video {
+  height: 300px;
+  width: auto
+}
