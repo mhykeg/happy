@@ -22,7 +22,6 @@ h1 {
 
 li {
   font-family: monospace;
-  border: 3px;
 }
 
 p {
@@ -30,5 +29,6 @@ p {
 }
 
 #gold {
-  font-color: #ffd347;
+  font-family: Poppins;
+  color: #ffd347;
 }
