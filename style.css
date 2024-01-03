@@ -1,7 +1,6 @@
 h1 {
-  font-family: Raleway;
-  font-size: 20px;
-  text-align: center;
+  font-family: Poppins;
+  font-size: 30px;
   animation: color-change 1s infinite;
 }
 
@@ -22,22 +21,18 @@ h1 {
 
 li {
   font-family: monospace;
-  text-align: center
 }
 
 p {
   font-family: monospace;
-  text-align: center;
 }
 
 h2 {
   font-family: Poppins;
   color: gold;
-  text-align: center;
 }
 
 #gold {
   font-family: Poppins;
   color: gold;
-  text-align: center;
 }
