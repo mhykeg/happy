@@ -14,10 +14,9 @@ h1 {
 }
 
 body {
-  width: 1000px;
+  width: 100vw;
   margin: 0 auto;
   text-align: center;
-  width: fit-content;
 }
 
 ol {
