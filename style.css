@@ -58,7 +58,8 @@ h2 {
 }
 
 #gold-greeting {
-  font-family: Allison;
+  font-family: Palatino;
+  font-style: oblique;
   font-size: 22px;
   background: linear-gradient(to right, #f32170, #ff6b08,#cf23cf, #eedd44);
   -webkit-text-fill-color: transparent;
