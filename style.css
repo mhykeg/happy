@@ -16,6 +16,12 @@ h1 {
 body {
   width: 400px;
   margin: 0 auto;
+  text-align: center;
+}
+
+ol {
+  display: inline-block;
+  text-align: left;
 }
 
 #banner {
