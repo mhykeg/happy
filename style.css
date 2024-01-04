@@ -1,18 +1,9 @@
-@media only screen and (max-width: 768px) {
-  h1 {
-    font-size: 48px;
-  }
-  li,
-    p,
-      h2 {
-        fontsize: 24px;
-      }
-}
-
 h1 {
   font-family: Poppins;
   font-size: 30px;
   animation: color-change 1s infinite;
+  margin: 0 auto;
+  width: auto;
 }
 
 @keyframes color-change {
@@ -27,26 +18,35 @@ h1 {
   background-size: cover;
   background-position: center;
   height: 500px;
+  margin: 0 auto;
   width: auto;
 }
 
 li {
   font-family: monospace;
   color: DarkSalmon
+  margin: 0 auto;
+  width: auto;
 }
 
 p {
   font-family: monospace;
   color: Salmon;
+  margin: 0 auto;
+  width: auto;
 }
 
 h2 {
   font-family: Poppins;
   color: Salmon;
+  margin: 0 auto;
+  width: auto;
 }
 
 #gold {
   font-family: Poppins;
   color: LightSalmon;
+  margin: 0 auto;
+  width: auto;
 }
 
