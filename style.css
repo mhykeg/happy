@@ -14,7 +14,7 @@ h1 {
 }
 
 body {
-  width: 1920px;
+  width: 1000px;
   margin: 0 auto;
   text-align: center;
 }
@@ -30,7 +30,7 @@ ol {
   background-position: center;
   height: 500px;
   margin: 20px auto;
-  width: auto;
+  width: 700px;
 }
 
 li {
