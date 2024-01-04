@@ -57,10 +57,12 @@ h2 {
   width: auto;
 }
 
-#gold {
+#gold-greeting {
   font-family: Poppins;
   font-size: 20px;
-  color: LightSalmon;
+  background: linear-gradient(to right, #f32170, #ff6b08,#cf23cf, #eedd44);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
   margin: 20px auto;
   width: auto;
 }
